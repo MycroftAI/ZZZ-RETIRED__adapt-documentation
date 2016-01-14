@@ -7,7 +7,7 @@ taxonomy:
 
 #### The Code
 
-There are many ways to get involved in the Adapt project, you can check our [code repository on Github](https://github.com/MycroftAI/adapt) to contribute to the project itself, fork the project, and create pull requests.
+There are many ways to get involved in the Adapt project, you can check our [code repository on GitHub](https://github.com/MycroftAI/adapt) to contribute to the project itself, fork the project, and create pull requests.
 
 #### The Community
 

@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
->>>>>><p>Adapt is best installed from the Github source using pip.</p>
+>>>>>><p>Adapt is best installed from the GitHub source using pip.</p>
 
 ### Requirements
 
@@ -52,14 +52,14 @@ PYTHONPATH=. python examples/multi_intent_parser.py "play some music by the clas
 
 #### OSX
 
-El Capitain:
+El Capitan:
 
 Xcode must be installed and Apple’s  license agreement accepted.
 ```
 xcode-select --install
 ```
 
-Install homebrew package manager. Homepage: brew.sh
+Install homebrew package manager. Homepage: [brew.sh](http://brew.sh)
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```

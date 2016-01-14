@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-You can find all of the examples in the [Adapt repo on Github](https://github.com/MycroftAI/adapt/tree/master/examples), or you can look at them below.
+You can find all of the examples in the [Adapt repo on GitHub](https://github.com/MycroftAI/adapt/tree/master/examples), or you can look at them below.
 
 #### Single Intent Parser
 
