@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
->>>>>><p>Adapt is best installed from the Github source using pip.</p>
+>>>>>><p>Adapt is best installed from the GitHub source using pip.</p>
 
 ### Requirements
 
