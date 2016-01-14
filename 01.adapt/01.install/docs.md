@@ -59,7 +59,7 @@ Xcode must be installed and Apple’s  license agreement accepted.
 xcode-select --install
 ```
 
-Install homebrew package manager. Homepage: brew.sh
+Install homebrew package manager. Homepage: [brew.sh](http://brew.sh)
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
