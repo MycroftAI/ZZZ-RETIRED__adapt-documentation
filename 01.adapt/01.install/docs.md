@@ -52,7 +52,7 @@ PYTHONPATH=. python examples/multi_intent_parser.py "play some music by the clas
 
 #### OSX
 
-El Capitain:
+El Capitan:
 
 Xcode must be installed and Apple’s  license agreement accepted.
 ```
