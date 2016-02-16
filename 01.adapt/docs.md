@@ -43,7 +43,7 @@ Adapt is written in Python, a language with near universal support.  Adapt can b
 Adapt is small enough to run locally on your embedded device.  It eliminates the need to parse intent using the cloud and ensures that applications will function even when the network is offline.
 
 #### Rules Based
-Any functional A.I. needs to make use of both rules based intent parsing and deep learning.  Adapt is the only open source intent parser available that makes it easy to deploy a rules based system to compliment deep learning approaches.
+Any functional A.I. needs to make use of both rules based intent parsing and deep learning.  Adapt is the only open source intent parser available that makes it easy to deploy a rules based system to complement deep learning approaches.
 
 #### Licensing
 At Mycroft we believe that artificial intelligence is too important to remain the property of a few large companies.  That is why Adapt is licensed under the GNU Lesser General Public License version 3.0.   Anyone can access the source code, change the software and use adapt in new free programs. 
