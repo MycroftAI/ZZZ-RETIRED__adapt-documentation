@@ -122,5 +122,3 @@ Verify installation by running the example code from the Adapt repository.
 $ cd ~/adapt
 PYTHONPATH=. python examples/multi_intent_parser.py "play some music by the clash"
 ```
-update test
-
