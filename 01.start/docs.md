@@ -1,6 +1,5 @@
 ---
 title: 'Getting Started'
-child_type: docs
 taxonomy:
     category:
         - docs
